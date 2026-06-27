@@ -37,3 +37,7 @@ caculator.py
 ## Author
 
 made by noyan (:  .
+
+## IMPORTANT
+
+do NOT edit thiese files.
